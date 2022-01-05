@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.flexible-container{
+    display: flex;
+    margin: 150px;
+}
+h1{
+    font-size: 50px;
+}
+.pink-color{
+      color: rgb(240, 69, 98);
+}
+.half-width{
+    width: 50px;
+    padding-left: 5px;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(219, 27, 27), rgb(245, 109, 132));
+    padding: 8px 20px;
+    color: seashell;
+    font-weight: 800;
+    border-radius: 8px;
+}
+.top-banner{
+    background-image: url(pic/top-banner.png);
+    background-repeat: no-repeat;
+}
